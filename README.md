@@ -2,8 +2,6 @@
 
 [English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
 
----------------------------------------
-
 ## ▸ 生物信息学研究
 
 ---------------------------------------
