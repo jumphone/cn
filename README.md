@@ -44,7 +44,7 @@
 
 ---------------------------------------
 
-# 工作经历 & 教育经历
+## 工作经历 & 教育经历
 
 <img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
 
@@ -70,7 +70,7 @@
 
 ---------------------------------------
 
-# 联系方式
+## 联系方式
 
 <img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
