@@ -2,6 +2,10 @@
 
 ---------------------------------------
 
+[English](https://jumphone.github.io) | [中文](https://jumphone.github.io/cn)
+
+---------------------------------------
+
 ## 生物信息研究
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
@@ -40,7 +44,7 @@
 
 ---------------------------------------
 
-## 工作经历 & 教育经历
+# 工作经历 & 教育经历
 
 <img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
 
@@ -66,7 +70,7 @@
 
 ---------------------------------------
 
-## 联系方式
+# 联系方式
 
 <img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
