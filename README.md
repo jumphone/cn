@@ -42,7 +42,7 @@
 
     * Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell, 2018**, [论文](https://doi.org/10.1016/j.devcel.2018.05.022)
 
-* **复旦大学 - 田卫东教授实验室**
+* **复旦大学**
 
     * The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [论文](https://doi.org/10.1186/s13059-019-1835-8)
 
