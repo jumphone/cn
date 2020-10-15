@@ -44,7 +44,7 @@
 
 <img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
 
-* **助理研究院**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020-现在**
+* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020-现在**
 
 <img src="https://jumphone.github.io/img/cchmc_logo.png" width="150">
 
