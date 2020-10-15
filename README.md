@@ -18,7 +18,7 @@
 
 * **RNA测序数据分析**
 
-* SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[代码](https://github.com/jumphone/SPRINT), [论文](https://doi.org/10.1093/bioinformatics/btx473)} 
+    * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[代码](https://github.com/jumphone/SPRINT), [论文](https://doi.org/10.1093/bioinformatics/btx473)} 
 
 * **表型 & 基因型**
 
