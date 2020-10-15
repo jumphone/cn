@@ -34,7 +34,7 @@
 
 * Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, **Cancer Cell, 2019**, [论文](https://doi.org/10.1016/j.ccell.2019.07.009)
 
-* The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [paper](https://doi.org/10.1186/s13059-019-1835-8)
+* The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [论文](https://doi.org/10.1186/s13059-019-1835-8)
 
 * Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, **Cell Stem Cell, 2019**, [论文](https://doi.org/10.1016/j.stem.2019.03.006)
 
