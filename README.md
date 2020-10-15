@@ -74,7 +74,7 @@
 
 <img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
-* **中国上海重庆南路227号西区5号楼508室，邮编200025**
+* **中国上海重庆南路227号，邮编200025**
 
 * **fzhang@shsmu.edu.cn**
 
