@@ -54,25 +54,17 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
+<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="150">
 
 * **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020至今**
 
-<img src="https://jumphone.github.io/img/cchmc_logo.png" width="150">
-
 * **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018-2020**
-
-<img src="https://jumphone.github.io/img/fudan_logo.png" width="60">
 
 * **助教**, 生物统计学: 理论与应用, 复旦大学, 中国, **2015-2016**
 
 * **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, **2015-2020**. 导师: 田卫东 教授
 
-<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="50">
-
 * **暑期学校**, 加州大学洛杉矶分校, 美国, **2013**. 生物统计学导论 (讲师: Gjertson, D.W. 和 Estes, J.P.)
-
-<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="60">
 
 * **本科**, 数学学院, 山东大学, 中国, **2011-2015** 
 
