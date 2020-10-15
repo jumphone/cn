@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# 研究经历
 
-You can use the [editor on GitHub](https://github.com/jumphone/cn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 生物信息研究
 
-### Markdown
+<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 单细胞测序数据分析
 
-```markdown
-Syntax highlighted code block
+* Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[code](https://github.com/jumphone/Vector), [paper](https://doi.org/10.1016/j.celrep.2020.108069)}
 
-# Header 1
-## Header 2
-### Header 3
+* A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[code](https://github.com/jumphone/BEER), [paper](https://doi.org/10.1038/s41421-019-0114-x)}
 
-- Bulleted
-- List
+### RNA-seq数据分析
 
-1. Numbered
-2. List
+* SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)} 
 
-**Bold** and _Italic_ and `Code` text
+### 表型 & 基因型
 
-[Link](url) and ![Image](src)
-```
+* PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[code](https://github.com/jumphone/PhenoPro), [paper](https://doi.org/10.1093/bioinformatics/btz100)}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---------------------------------------
 
-### Jekyll Themes
+## 合作研究
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jumphone/cn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
 
-### Support or Contact
+* CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [paper](https://doi.org/10.1038/s41467-020-17955-2)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Single-Cell Transcriptomics in Medulloblastoma Reveals Tumor-Initiating Progenitors and Oncogenic Cascades during Tumorigenesis and Relapse, **Cancer Cell, 2019**, [paper](https://doi.org/10.1016/j.ccell.2019.07.009)
+
+* The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens, **Genome Biology, 2019**, [paper](https://doi.org/10.1186/s13059-019-1835-8)
+
+* Single-cell Transcriptomics Uncovers Glial Progenitor Diversity and Cell Fate Determinants during Development and Gliomagenesis, **Cell Stem Cell, 2019**, [paper](https://doi.org/10.1016/j.stem.2019.03.006)
+
+* Dual requirement of CHD8 for chromatin landscape establishment and histone methyltransferase recruitment to promote CNS myelination and repair, **Developmental Cell, 2018**, [paper](https://doi.org/10.1016/j.devcel.2018.05.022)
+
+* Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution, 2016**, [paper](https://doi.org/10.1093/molbev/msw128)
+
+---------------------------------------
+
+## 工作经历 & 教育经历
+
+<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="120">
+
+* **助理研究院**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020-现在**
+
+<img src="https://jumphone.github.io/img/cchmc_logo.png" width="150">
+
+* **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018-2020**
+
+<img src="https://jumphone.github.io/img/fudan_logo.png" width="60">
+
+* **助教**, 生物统计学: 理论与应用, 复旦大学, 中国, **2015-2016**
+
+* **博士（本科直博）**, 生物统计学, 生命科学学院, 复旦大学, 中国, **2015-2020**. 导师: 田卫东 教授
+
+<img src="https://jumphone.github.io/img/UCLA_logo.jpg" width="50">
+
+* **暑期学校**, 加州大学洛杉矶分校, 美国, **2013**. 生物统计学导论 (讲师: Gjertson, D.W. 和 Estes, J.P.)
+
+<img src="https://jumphone.github.io/img/shandong_logo.jpg" width="60">
+
+* **本科**, 数学学院, 山东大学, 中国, **2011-2015** 
+
+---------------------------------------
+
+## 联系方式
+
+<img src="https://jumphone.github.io/img/email_logo.png" width="200">
+
+* **fzhang@shsmu.edu.cn**
+
+* **fzhang20@sjtu.edu.cn**
