@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-[English](https://fzhang.bioinfo-lab.com) | [中文](https://fzhang.bioinfo-lab.com/cn)
+[English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
 
 ---------------------------------------
 
