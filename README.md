@@ -6,7 +6,7 @@
 
 ---------------------------------------
 
-## 生物信息研究
+## 生物信息学研究
 
 <img src="https://jumphone.github.io/img/bioinfo_logo.png" width="200" height="50">
 
