@@ -1,6 +1,6 @@
 # 个人主页
 
-[English](http://fzhang.bioinfo-lab.com) | [中文](http://fzhang.bioinfo-lab.com/cn)
+[English](https://fzhang.bioinfo-lab.com) | [中文](https://fzhang.bioinfo-lab.com/cn)
 
 ## ▸ 生物信息学研究
 
