@@ -50,7 +50,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="150">
 
 * **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020至今**
 
@@ -70,7 +70,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/email_logo.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/email_logo.png" width="200">
 
 * **中国上海重庆南路227号，邮编200025**
 
