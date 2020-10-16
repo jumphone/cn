@@ -1,7 +1,3 @@
-# 个人主页
-
-[English](https://fzhang.bioinfo-lab.com) | [中文](https://fzhang.bioinfo-lab.com/cn)
-
 ## ▸ 生物信息学研究
 
 ---------------------------------------
@@ -21,6 +17,8 @@
 * **表型 & 基因型**
 
     * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[代码](https://github.com/jumphone/PhenoPro), [论文](https://doi.org/10.1093/bioinformatics/btz100)}
+
+[Github主页](https://github.com/jumphone/)
 
 ---------------------------------------
 
