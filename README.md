@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/bioinfo_logo.png" width="250">
+<img src="https://fzhang.bioinfo-lab.com/img/bioinfo_logo.png" width="250">
 
 * **单细胞数据分析**
 
@@ -26,7 +26,7 @@
 
 ---------------------------------------
 
-<img src="https://jumphone.github.io/img/colla_logo.png" width="200" height="50">
+<img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
 * **辛辛那提儿童医院医学中心**
 
@@ -50,7 +50,7 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/jiaotong_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/jiaotong_logo.png" width="150">
 
 * **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020至今**
 
@@ -70,7 +70,7 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://jumphone.github.io/img/email_logo.png" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
 
 * **中国上海重庆南路227号，邮编200025**
 
