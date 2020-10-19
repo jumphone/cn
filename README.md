@@ -20,9 +20,9 @@
 
 [Github主页](https://github.com/jumphone/)
 
----------------------------------------
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
+---------------------------------------
 
 ## ▸ 合作研究经历
 
@@ -46,9 +46,9 @@
 
     * Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution, 2016**, [论文](https://doi.org/10.1093/molbev/msw128)
 
----------------------------------------
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
+---------------------------------------
 
 ## ▸ 工作经历 & 教育经历
 
@@ -68,9 +68,9 @@
 
 * **本科**, 数学学院, 山东大学, 中国, **2011-2015** 
 
----------------------------------------
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
+---------------------------------------
 
 ## ▸ 联系方式
 
