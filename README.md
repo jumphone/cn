@@ -78,7 +78,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
 
-* **中国上海重庆南路227号，邮编200025**
+* **中国上海重庆南路280号，邮编200025**
 
 * **fzhang@shsmu.edu.cn**
 
