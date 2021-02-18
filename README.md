@@ -32,6 +32,8 @@
 
 * **辛辛那提儿童医院医学中心**
 
+    * OLIG2 maintenance is not essential for diffuse intrinsic pontine glioma cell line growth but regulates tumor phenotypes, **Neuro-Oncology, 2021**, [论文](https://doi.org/10.1093/neuonc/noab016)
+
     * Adaptive responses to mTOR gene targeting in hematopoietic stem cells reveal a proliferative mechanism evasive to mTOR inhibition, **PNAS, 2021**, [论文](https://www.pnas.org/content/118/1/e2020102118)
     
     * CTCF-mediated chromatin looping in EGR2 regulation and SUZ12 recruitment critical for peripheral myelination and repair, **Nature Communications, 2020**, [论文](https://doi.org/10.1038/s41467-020-17955-2)
