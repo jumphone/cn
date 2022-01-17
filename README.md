@@ -6,6 +6,8 @@
 
 * **单细胞数据分析**
 
+    * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[代码](https://github.com/TianLab-Bioinfo/scMAGIC), [论文](https://doi.org/10.1093/nar/gkab1275)}
+    
     * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[代码](https://github.com/jumphone/Vector), [论文](https://doi.org/10.1016/j.celrep.2020.108069)}
 
     * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[代码](https://github.com/jumphone/BEER), [论文](https://doi.org/10.1038/s41421-019-0114-x)}
