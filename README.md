@@ -6,19 +6,19 @@
 
 * **单细胞数据分析**
 
-    * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[代码](https://github.com/TianLab-Bioinfo/scMAGIC), [论文](https://doi.org/10.1093/nar/gkab1275)}
+    * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[代码](https://github.com/TianLab-Bioinfo/scMAGIC), [论文](https://doi.org/10.1093/nar/gkab1275)}, 共一
     
-    * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[代码](https://github.com/jumphone/Vector), [论文](https://doi.org/10.1016/j.celrep.2020.108069)}
+    * Unsupervised Inference of Developmental Directions for Single Cells Using VECTOR, **Cell Reports, 2020**, {[代码](https://github.com/jumphone/Vector), [论文](https://doi.org/10.1016/j.celrep.2020.108069)}, 第一
 
-    * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[代码](https://github.com/jumphone/BEER), [论文](https://doi.org/10.1038/s41421-019-0114-x)}
+    * A novel approach to remove the batch effect of single-cell data, **Cell Discovery, 2019**, {[代码](https://github.com/jumphone/BEER), [论文](https://doi.org/10.1038/s41421-019-0114-x)}, 第一
 
 * **RNA测序数据分析**
 
-    * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[代码](https://github.com/jumphone/SPRINT), [论文](https://doi.org/10.1093/bioinformatics/btx473)} 
+    * SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics, 2017**, {[代码](https://github.com/jumphone/SPRINT), [论文](https://doi.org/10.1093/bioinformatics/btx473)}, 第一
 
 * **表型 & 基因型**
 
-    * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[代码](https://github.com/jumphone/PhenoPro), [论文](https://doi.org/10.1093/bioinformatics/btz100)}
+    * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[代码](https://github.com/jumphone/PhenoPro), [论文](https://doi.org/10.1093/bioinformatics/btz100)}, 共一
     
     
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10">
