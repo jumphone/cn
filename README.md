@@ -5,6 +5,8 @@
 <img src="https://fzhang.bioinfo-lab.com/img/bioinfo_logo.png" width="250">
 
 * **单细胞数据分析**
+    
+    * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[代码](https://github.com/jumphone/FitDevo), 论文正在排版}, 第一作者
 
     * scMAGIC: accurately annotating single cells using two rounds of reference-based classification, **NAR, 2022**, {[代码](https://github.com/TianLab-Bioinfo/scMAGIC), [论文](https://doi.org/10.1093/nar/gkab1275)}, 共一作者
     
