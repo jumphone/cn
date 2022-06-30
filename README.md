@@ -75,7 +75,7 @@
 
 * **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020至今**
 
-* **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018-2020**. 合作者： [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu), [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
+* **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018-2020**. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu), [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
 * **助教**, 生物统计学方法及应用, 复旦大学, 中国, **2015-2016**
 
