@@ -81,7 +81,7 @@
 
 * **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, **2015-2020**. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
-* **暑期学校**, 加州大学洛杉矶分校, 美国, **2013**. 生物统计学导论 (主讲: [Prof. Gjertson, D.W.](https://ph.ucla.edu/faculty/gjertson) 和 Estes, J.P.)
+* **暑期学校**, 加州大学洛杉矶分校, 美国, **2013**. 生物统计学导论. 主讲: [Prof. Gjertson, D.W.](https://ph.ucla.edu/faculty/gjertson)
 
 * **本科**, 数学学院, 山东大学, 中国, **2011-2015** 
 
