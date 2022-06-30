@@ -25,12 +25,6 @@
     * PhenoPro: a novel toolkit for assisting in the diagnosis of Mendelian disease, **Bioinformatics, 2019**, {[代码](https://github.com/jumphone/PhenoPro), [论文](https://doi.org/10.1093/bioinformatics/btz100)}, 共一作者
     
     
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="10">
-
-[Github主页](https://github.com/jumphone/)
-
-[Gitee主页](https://gitee.com/jumphone/)
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 ---------------------------------------
