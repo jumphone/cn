@@ -52,6 +52,10 @@
 
 * **辛辛那提儿童医院医学中心**
     
+    * Single-cell multiomics identifies clinically relevant mesenchymal stem-like cells and key regulators for MPNST malignancy, **Science Advances, 2022**, [论文](https://doi.org/10.1126/sciadv.abo5442)
+  
+  * Conserved and Distinct Functions of the Autism-Related Chromatin Remodeler CHD8 in Embryonic and Adult Forebrain Neurogenesis, **Journal of Neuroscience, 2022**, [论文](https://doi.org/10.1523/JNEUROSCI.2400-21.2022)
+  
     * CDC42 controlled apical-basal polarity regulates intestinal stem cell to transit amplifying cell fate transition via YAP-EGF-mTOR signaling, **Cell Reports, 2022**, [论文](https://doi.org/10.1016/j.celrep.2021.110009)
 
     * OLIG2 maintenance is not essential for diffuse intrinsic pontine glioma cell line growth but regulates tumor phenotypes, **Neuro-Oncology, 2021**, [论文](https://doi.org/10.1093/neuonc/noab016)
