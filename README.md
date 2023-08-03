@@ -40,6 +40,8 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/colla_logo.png" width="200" height="50">
 
+  * Kinase-independent role of mTOR and on-/off-target effects of an mTOR kinase inhibitor, **Leukemia, 2023**, [论文](https://doi.org/10.1038/s41375-023-01987-w)
+  
   * Loss of phosphatase CTDNEP1 potentiates aggressive medulloblastoma by triggering MYC amplification and genomic instability, **Nature Communications, 2023**, [论文](https://doi.org/10.1038/s41467-023-36400-8)
   
   * Inducible lncRNA transgenic mice reveal continual role of HOTAIR in promoting breast cancer metastasis, **Elife, 2022**, [论文](https://doi.org/10.7554/elife.79126)
