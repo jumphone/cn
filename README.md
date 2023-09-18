@@ -4,6 +4,7 @@
 
 
 <p float="left">
+<img src="https://fzhang.bioinfo-lab.com/img/tools/logo_fwp.png" height="60">
 <img src="https://fzhang.bioinfo-lab.com/img/inferloop_logo.jpg" height="60">
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_fitdevo.png" height="60">
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_scmagic.png" height="60">
@@ -13,6 +14,8 @@
 <img src="https://fzhang.bioinfo-lab.com/img/tools/logo_sprint.png" height="60">
 </p>
 
+  * Feature-weight based measurement of cancerous transcriptome using cohort-wide and sample-specific information, **Cellular Oncology, 2023**, {[代码](https://github.com/jumphone/FWP), 排版中}, 通讯作者
+  * 
   * InferLoop: leveraging single-cell chromatin accessibility for the signal of chromatin loop, **Briefings in Bioinformatics, 2023**, {[代码](https://github.com/jumphone/InferLoop), [论文](https://doi.org/10.1093/bib/bbad166)}, 第一&共同通讯作者
     
   * FitDevo: accurate inference of single-cell developmental potential using sample-specific gene weight, **Briefings in Bioinformatics, 2022**, {[代码](https://github.com/jumphone/FitDevo), [论文](https://doi.org/10.1093/bib/bbac293)}, 第一&共同通讯作者
