@@ -93,8 +93,6 @@
 
 * **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018-2020**. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
-* **助教**, 生物统计学方法及应用, 复旦大学, 中国, **2015-2016**
-
 * **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, **2015-2020**. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
 * **暑期学校**, 加州大学洛杉矶分校, 美国, **2013**. 生物统计学导论. 主讲: Prof. Gjertson, D.W.
