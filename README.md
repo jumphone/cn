@@ -88,7 +88,7 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/jiaotong_logo.png" width="150">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 * **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020至今**
 
