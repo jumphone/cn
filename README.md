@@ -92,7 +92,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020至今**
+* **副研究员**, 已过答辩公式, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2024至今**
+
+* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020-2023**
 
 * **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018-2020**. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
