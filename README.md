@@ -8,6 +8,8 @@
 
 **科研**：主要研究领域为单细胞与空间多组学算法开发及创新应用，有多年算法开发及数据分析经验。主持国自然青年项目及上海市科委扬帆计划项目，参与多个国家级、省部级项目。主要研究发表在Cell Reports, Cell Discovery，Brief Bioinform等杂志，合作研究发表在Cancer Cell, Cell Stem Cell, PNAS等杂志。
 
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
 
 ## ▸ 主要研究
 
