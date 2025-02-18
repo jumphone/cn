@@ -89,19 +89,19 @@
 
 &nbsp;&nbsp;
 
-* **副教授**, 计算机科学, 海南比勒费尔德应用科学大学, 中国, **2025.02-至今**
+* **副教授**, 计算机科学, 海南比勒费尔德应用科学大学, 中国, 2025.02 至今
 
-* **副研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2024.01-2025.01**
+* **副研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2024.01-2025.01
 
-* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, **2020.10-2023.12**
+* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2020.10-2023.12
 
-* **访问学者**, 辛辛那提儿童医院医学中心, 美国, **2018.01-2020.01**. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
+* **访问学者**, 辛辛那提儿童医院医学中心, 美国, 2018.01-2020.01. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
 
-* **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, **2015.09-2020.06**. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
+* **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, 2015.09-2020.06. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
 
-* **暑期学校**, 加州大学洛杉矶分校, 美国, **2013.08-2013.09**. 生物统计学导论. 主讲: Prof. Gjertson, D.W.
+* **暑期学校**, 加州大学洛杉矶分校, 美国, 2013.08-2013.09. 生物统计学导论. 主讲: Prof. Gjertson, D.W.
 
-* **本科**, 数学学院, 山东大学, 中国, **2011.09-2015.06** 
+* **本科**, 数学学院, 山东大学, 中国, 2011.09-2015.06 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
