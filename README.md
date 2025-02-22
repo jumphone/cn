@@ -9,7 +9,7 @@
 
 **工作**：曾任上海交通大学医学院副研究员，合作PI为[李令杰研究员](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)。曾于美国辛辛那提儿童医院访学，合作者为[Qing Richard Lu教授](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu)和[Yi Zheng教授](https://www.cincinnatichildrens.org/bio/z/yi-zheng)。
 
-**教育**：博士毕业于复旦大学生命科学学院计算生物学系，导师为[田卫东教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)。本科毕业于山东大学数学学院，本科毕业后保研直接攻读博士学位。
+**教育**：博士毕业于复旦大学生命科学学院计算生物学系，生物统计学专业，导师为[田卫东教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)。本科毕业于山东大学数学学院，信息安全专业，本科毕业后经保研直接攻读博士学位。
 
 **科研**：主要研究领域为单细胞与空间多组学算法开发及创新应用，有多年算法开发及数据分析经验。主持国自然青年项目及上海市科委扬帆计划项目，参与多个国家级、省部级项目。主要研究发表在[Cell Reports](https://doi.org/10.1016/j.celrep.2021.110009)、[Cell Discovery](https://doi.org/10.1038/s41421-019-0114-x)、[Brief Bioinform](https://doi.org/10.1093/bib/bbad166)等杂志，合作研究发表在[Cancer Cell](https://doi.org/10.1016/j.ccell.2019.07.009)、[Cell Stem Cell](https://doi.org/10.1016/j.stem.2019.03.006)、[PNAS](https://www.pnas.org/content/118/1/e2020102118)等杂志。
 
