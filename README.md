@@ -13,7 +13,7 @@
 
 **教学**：Programming 1 (BiUH), Data Analysis and Intro to ML (BiUH), 群体遗传学 (上交医学院), 常用生物信息学与统计学算法 (上交医学院), RNA测序数据分析 (复旦大学, 暑期学校).
 
-**科研**：主要研究领域为单细胞与空间多组学算法开发及创新应用，有多年算法开发及数据分析经验。主持国自然青年项目及上海市科委扬帆计划项目，参与多个国家级省部级项目。主要研究发表在[Cell Reports](https://doi.org/10.1016/j.celrep.2021.110009)、[Cell Discovery](https://doi.org/10.1038/s41421-019-0114-x)、[Brief Bioinform](https://doi.org/10.1093/bib/bbad166)等杂志，合作研究发表在[Cancer Cell](https://doi.org/10.1016/j.ccell.2019.07.009)、[Cell Stem Cell](https://doi.org/10.1016/j.stem.2019.03.006)、[PNAS](https://www.pnas.org/content/118/1/e2020102118)等杂志。
+**科研**：主要研究领域为单细胞与空间多组学算法开发及创新应用，有多年算法开发及数据分析经验。主持国自然青年项目及上海市科委扬帆计划项目，参与多个国家级、省部级项目。主要研究发表在[Cell Reports](https://doi.org/10.1016/j.celrep.2021.110009)、[Cell Discovery](https://doi.org/10.1038/s41421-019-0114-x)、[Brief Bioinform](https://doi.org/10.1093/bib/bbad166)等杂志，合作研究发表在[Cancer Cell](https://doi.org/10.1016/j.ccell.2019.07.009)、[Cell Stem Cell](https://doi.org/10.1016/j.stem.2019.03.006)、[PNAS](https://www.pnas.org/content/118/1/e2020102118)等杂志。
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
