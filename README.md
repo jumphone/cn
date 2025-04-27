@@ -17,6 +17,49 @@
 
 **科研**：主要研究领域为单细胞与空间多组学算法开发及创新应用，有多年算法开发及数据分析经验。主持国自然青年项目及上海市科委扬帆计划项目，参与多个国家级、省部级项目。主要研究发表在[Cell Reports](https://doi.org/10.1016/j.celrep.2021.110009)、[Cell Discovery](https://doi.org/10.1038/s41421-019-0114-x)、[Brief Bioinform](https://doi.org/10.1093/bib/bbad166)等杂志，合作研究发表在[Cancer Cell](https://doi.org/10.1016/j.ccell.2019.07.009)、[Cell Stem Cell](https://doi.org/10.1016/j.stem.2019.03.006)、[PNAS](https://www.pnas.org/content/118/1/e2020102118)等杂志。
 
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
+---------------------------------------
+
+## ▸ 工作 & 教育
+
+---------------------------------------
+
+&nbsp;&nbsp;
+
+* **副教授 & 学科带头人**，电子信息科学与技术，海南比勒费尔德应用科学大学, 中国, 2025.03 至今
+
+* **副教授**, 计算机科学, 海南比勒费尔德应用科学大学, 中国, 2025.02-2025.03
+
+* **副研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2024.01-2025.01
+
+* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2020.10-2023.12
+
+* **访问学者**, 辛辛那提儿童医院医学中心, 美国, 2018.01-2020.01. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
+
+* **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, 2015.09-2020.06. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
+
+* **暑期学校**, 加州大学洛杉矶分校, 美国, 2013.08-2013.09. 生物统计学导论. 主讲: Prof. Gjertson, D.W.
+
+* **本科**, 信息安全, 数学学院, 山东大学, 中国, 2011.09-2015.06 
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
+---------------------------------------
+
+## ▸ 联系方式
+
+---------------------------------------
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
+
+* **电子邮箱（工作）**: feng.zhang at hainan-biuh.edu.cn
+
+* **电子邮箱 （个人）**: jumphone at outlook.com 
+
+* **工作地址**: 海南陵水黎安国际教育创新试验区, 572400, 中国
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 ---------------------------------------
@@ -82,48 +125,4 @@
   * ★ SPRINT: an SNP-free toolkit for identifying RNA editing sites, **Bioinformatics**, 2017.07, {[code](https://github.com/jumphone/SPRINT), [paper](https://doi.org/10.1093/bioinformatics/btx473)}, first author
     
   * Genome-wide identification of regulatory sequences undergoing accelerated evolution in the human genome, **Molecular Biology and Evolution**, 2016.07, [paper](https://doi.org/10.1093/molbev/msw128)
-
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
-
----------------------------------------
-
-## ▸ 工作 & 教育
-
----------------------------------------
-
-&nbsp;&nbsp;
-
-* **副教授 & 学科带头人**，电子信息科学与技术，海南比勒费尔德应用科学大学, 中国, 2025.03 至今
-
-* **副教授**, 计算机科学, 海南比勒费尔德应用科学大学, 中国, 2025.02-2025.03
-
-* **副研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2024.01-2025.01
-
-* **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2020.10-2023.12
-
-* **访问学者**, 辛辛那提儿童医院医学中心, 美国, 2018.01-2020.01. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
-
-* **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, 2015.09-2020.06. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
-
-* **暑期学校**, 加州大学洛杉矶分校, 美国, 2013.08-2013.09. 生物统计学导论. 主讲: Prof. Gjertson, D.W.
-
-* **本科**, 信息安全, 数学学院, 山东大学, 中国, 2011.09-2015.06 
-
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
-
----------------------------------------
-
-## ▸ 联系方式
-
----------------------------------------
-
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
-
-* **电子邮箱（工作）**: feng.zhang at hainan-biuh.edu.cn
-
-* **电子邮箱 （个人）**: jumphone at outlook.com 
-
-* **工作地址**: 海南陵水黎安国际教育创新试验区, 572400, 中国
-
-
 
