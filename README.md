@@ -25,8 +25,6 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;
-
 * **副教授 & 学科带头人**，电子信息科学与技术，海南比勒费尔德应用科学大学, 中国, 2025.03 至今
 
 * **副教授**, 计算机科学, 海南比勒费尔德应用科学大学, 中国, 2025.02-2025.03
@@ -51,8 +49,6 @@
 
 ---------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://fzhang.bioinfo-lab.com/img/email_logo.png" width="200">
-
 * **电子邮箱（工作）**: feng.zhang at hainan-biuh.edu.cn
 
 * **电子邮箱 （个人）**: jumphone at outlook.com 
@@ -66,8 +62,6 @@
 ## ▸ 研究论文
 
 ---------------------------------------
-
-&nbsp;&nbsp;
 
   * Single-nucleus profiling of mouse inner ear aging uncovers cell type heterogeneity and hair cell subtype-specific age-related signatures, **Cell Reports**, 2025.06, [paper](https://doi.org/10.1016/j.celrep.2025.115781), co-first author
 
