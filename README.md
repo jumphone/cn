@@ -53,7 +53,7 @@
 
 * **电子邮箱 （个人）**: jumphone at outlook.com 
 
-* **工作地址**: 海南陵水黎安国际教育创新试验区, 572400, 中国
+* **工作地址**: 海南儋州洋浦经济开发区三都区西照路1号, 578001, 中国
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
