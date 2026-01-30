@@ -8,7 +8,7 @@
 ---------------------------------------
 
 
-**工作**：曾任上海交通大学医学院副研究员，合作PI为[李令杰研究员](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)。曾于美国辛辛那提儿童医院访学，合作者为[Qing Richard Lu教授](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu)和[Yi Zheng教授](https://www.cincinnatichildrens.org/bio/z/yi-zheng)。
+**工作**：海南比勒费尔德应用科学大学，电子信息科学与技术学科带头人。曾任上海交通大学医学院副研究员，合作PI为[李令杰研究员](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)。曾于美国辛辛那提儿童医院访学，合作者为[Qing Richard Lu教授](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu)和[Yi Zheng教授](https://www.cincinnatichildrens.org/bio/z/yi-zheng)。
 
 **教育**：博士毕业于复旦大学生命科学学院计算生物学系，生物统计学专业，导师为[田卫东教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)。本科毕业于山东大学数学学院，信息安全专业，本科毕业后经保研直接攻读博士学位。
 
