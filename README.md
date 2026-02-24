@@ -49,9 +49,9 @@
 
 ---------------------------------------
 
-* **电子邮箱（工作）**: feng.zhang at hainan-biuh.edu.cn
+* **电子邮箱（工作）**: feng.zhang@hainan-biuh.edu.cn
 
-* **电子邮箱 （个人）**: jumphone at outlook.com 
+* **电子邮箱 （个人）**: jumphone@outlook.com 
 
 * **工作地址**: 海南儋州洋浦经济开发区三都区西照路1号, 578001, 中国
 
