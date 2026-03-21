@@ -8,9 +8,9 @@
 ---------------------------------------
 
 
-**工作**：海南比勒费尔德应用科学大学，电子信息科学与技术学科带头人。曾任上海交通大学医学院副研究员，合作PI为[李令杰研究员](https://www.shsmu.edu.cn/cbmsen/info/1072/1301.htm)。曾于美国辛辛那提儿童医院访学，合作者为[Qing Richard Lu教授](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu)和[Yi Zheng教授](https://www.cincinnatichildrens.org/bio/z/yi-zheng)。
+**工作**：海南比勒费尔德应用科学大学，电子信息科学与技术学科带头人。曾任上海交通大学医学院副研究员，合作PI为李令杰研究员。曾于美国辛辛那提儿童医院访学，合作者为Qing Richard Lu教授和Yi Zheng教授.
 
-**教育**：博士毕业于复旦大学生命科学学院计算生物学系，生物统计学专业，导师为[田卫东教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)。本科毕业于山东大学数学学院，信息安全专业，本科毕业后经保研直接攻读博士学位。
+**教育**：博士毕业于复旦大学生命科学学院计算生物学系，生物统计学专业，导师为田卫东教授。本科毕业于山东大学数学学院，信息安全专业，本科毕业后经保研直接攻读博士学位。
 
 **教学**：Data Mining (BiUH), Programming 1 (BiUH), Data Analysis and Intro to ML (BiUH), 群体遗传学 (上交医学院), 常用生物信息学与统计学算法 (上交医学院), RNA测序数据分析 (复旦大学, 暑期学校).
 
@@ -33,9 +33,9 @@
 
 * **助理研究员**, 组织胚胎学与遗传发育学系, 上海交通大学医学院, 中国, 2020.10-2023.12
 
-* **访问学者**, 辛辛那提儿童医院医学中心, 美国, 2018.01-2020.01. 合作者: [Prof. Qing Richard Lu](https://www.cincinnatichildrens.org/bio/l/qing-richard-lu) 和 [Prof. Yi Zheng](https://www.cincinnatichildrens.org/bio/z/yi-zheng)
+* **访问学者**, 辛辛那提儿童医院医学中心, 美国, 2018.01-2020.01. 合作者: Prof. Qing Richard Lu 和 Prof. Yi Zheng
 
-* **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, 2015.09-2020.06. 导师: [田卫东 教授](https://life.fudan.edu.cn/9f/60/c31283a368480/page.htm)
+* **博士**, 生物统计学, 生命科学学院, 复旦大学, 中国, 2015.09-2020.06. 导师: 田卫东 教授
 
 * **暑期学校**, 加州大学洛杉矶分校, 美国, 2013.08-2013.09. 生物统计学导论. 主讲: Prof. Gjertson, D.W.
 
