@@ -60,7 +60,7 @@
 
 ---------------------------------------
 
-* **电子邮箱（工作）**: feng.zhang@hainan-biuh.edu.cn
+* **电子邮箱（工作）**: feng.zhang@hibiuh.edu.cn
 
 * **电子邮箱 （个人）**: jumphone@outlook.com 
 
